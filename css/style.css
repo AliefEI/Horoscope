@@ -1,0 +1,33 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+body{
+  background-image: url(../img/background.png);
+  background-size: cover;
+  color: whitesmoke;
+}
+
+h2{
+  font-size: 50px;
+}
+.horoscope{
+  font-size: 2rem;
+  color: white;
+}
+input{
+  width: 275px;
+  height: 40px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
